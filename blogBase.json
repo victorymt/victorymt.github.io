@@ -28,8 +28,8 @@
   "exlink": {},
   "needComment": 1,
   "allHead": "",
-  "title": "Blog Title",
-  "subTitle": "Blog description",
+  "title": "星尘日志",
+  "subTitle": "编码·写字·生活",
   "avatarUrl": "https://github.githubassets.com/favicons/favicon.svg",
   "GMEEK_VERSION": "last",
   "postListJson": {
@@ -66,7 +66,7 @@
     "question": "#d876e3",
     "wontfix": "#ffffff"
   },
-  "displayTitle": "Blog Title",
+  "displayTitle": "星尘日志",
   "faviconUrl": "https://github.githubassets.com/favicons/favicon.svg",
   "ogImage": "https://github.githubassets.com/favicons/favicon.svg",
   "primerCSS": "<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
