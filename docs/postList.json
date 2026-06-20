@@ -63,5 +63,41 @@
     "postUrl": "post/qun-lun-ru-men.html",
     "createdDate": "2026-06-20",
     "dateLabelColor": "#0969da"
+  },
+  "P7": {
+    "labels": [
+      "随记"
+    ],
+    "postTitle": "剖析：为什么我宁愿刷视频也不睡觉",
+    "postUrl": "post/fen-xi-shua-shi-pin.html",
+    "createdDate": "2026-06-20",
+    "dateLabelColor": "#0969da"
+  },
+  "P8": {
+    "labels": [
+      "随记"
+    ],
+    "postTitle": "Emacs 快捷键速查手册",
+    "postUrl": "post/emacs-kuai-jie-jian.html",
+    "createdDate": "2026-06-20",
+    "dateLabelColor": "#0969da"
+  },
+  "P9": {
+    "labels": [
+      "随记"
+    ],
+    "postTitle": "数组 vs 链表：CPU Cache 颠覆了教科书",
+    "postUrl": "post/shu-zu-vs-lian-biao-cache.html",
+    "createdDate": "2026-06-20",
+    "dateLabelColor": "#0969da"
+  },
+  "P10": {
+    "labels": [
+      "随记"
+    ],
+    "postTitle": "Flex & Bison 协作机制笔记",
+    "postUrl": "post/flex-bison-xie-zuo.html",
+    "createdDate": "2026-06-20",
+    "dateLabelColor": "#0969da"
   }
 }
