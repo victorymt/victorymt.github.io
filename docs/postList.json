@@ -1,1 +1,67 @@
-{"P1": {"labels": ["documentation"], "postTitle": "\u6d4b\u8bd5", "postUrl": "post/ce-shi.html", "createdDate": "2025-02-18", "dateLabelColor": "#0969da"}, "labelColorDict": {"bug": "#d73a4a", "documentation": "#0075ca", "duplicate": "#cfd3d7", "enhancement": "#a2eeef", "good first issue": "#7057ff", "help wanted": "#008672", "invalid": "#e4e669", "question": "#d876e3", "wontfix": "#ffffff"}}
+{
+  "P1": {
+    "labels": [
+      "documentation"
+    ],
+    "postTitle": "测试",
+    "postUrl": "post/ce-shi.html",
+    "createdDate": "2025-02-18",
+    "dateLabelColor": "#0969da"
+  },
+  "labelColorDict": {
+    "bug": "#d73a4a",
+    "documentation": "#0075ca",
+    "duplicate": "#cfd3d7",
+    "enhancement": "#a2eeef",
+    "good first issue": "#7057ff",
+    "help wanted": "#008672",
+    "invalid": "#e4e669",
+    "question": "#d876e3",
+    "wontfix": "#ffffff"
+  },
+  "P2": {
+    "labels": [
+      "算法"
+    ],
+    "postTitle": "树递归的两种范式：数学递归 vs 遍历式递归",
+    "postUrl": "post/er-cha-shu-di-gui.html",
+    "createdDate": "2026-06-20",
+    "dateLabelColor": "#0969da"
+  },
+  "P3": {
+    "labels": [
+      "物理"
+    ],
+    "postTitle": "麦克斯韦方程组：从基础到四大方程",
+    "postUrl": "post/mai-ke-si-wei-fang-cheng-zu.html",
+    "createdDate": "2026-06-20",
+    "dateLabelColor": "#0969da"
+  },
+  "P4": {
+    "labels": [
+      "编程语言"
+    ],
+    "postTitle": "Haskell 类型系统入门：类型签名、类型类与构造器",
+    "postUrl": "post/haskell-lei-xing-xi-tong.html",
+    "createdDate": "2026-06-20",
+    "dateLabelColor": "#0969da"
+  },
+  "P5": {
+    "labels": [
+      "编程语言"
+    ],
+    "postTitle": "Monad 入门：从 Functor 到 Monad 的直观理解",
+    "postUrl": "post/monad-ru-men.html",
+    "createdDate": "2026-06-20",
+    "dateLabelColor": "#0969da"
+  },
+  "P6": {
+    "labels": [
+      "数学"
+    ],
+    "postTitle": "群论入门：从幺半群到群作用",
+    "postUrl": "post/qun-lun-ru-men.html",
+    "createdDate": "2026-06-20",
+    "dateLabelColor": "#0969da"
+  }
+}
